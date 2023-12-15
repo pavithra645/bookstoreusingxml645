@@ -1,0 +1,36 @@
+<book>
+<bookname>A Bend in the River </bookname>
+<bookauthor>V.S.Naipaul</bookauthor>
+<bookprice>$404</bookprice>
+<ISBN>9780330516358</ISBN>
+<pages>336</pages>
+</book>
+<book>
+<bookname>A Suitable Boy</bookname>
+<bookauthor>Vikram Seth</bookauthor>
+<bookprice>$1499</bookprice>
+<ISBN>9789383064120</ISBN>
+<pages>1349</pages>
+</book>
+<book>
+<bookname>Broken Wings</bookname>
+<bookauthor>Sarojini Nidu</bookauthor>
+<bookprice>$602</bookprice>
+<ISBN>9780265404041</ISBN>
+<pages>120</pages>
+</book>
+<book>
+<bookname>Silly Novels</bookname>
+<bookauthor>George Elliot</bookauthor>
+<bookprice>$730</bookprice>
+<ISBN>1953007872</ISBN>
+<pages>78</pages>
+</book>
+<book>
+<bookname>The Jungle Book</bookname>
+<bookauthor>Rudyard Kipling</bookauthor>
+<bookprice>$400</bookprice>
+<ISBN>73456</ISBN>
+<pages>300</pages>
+</book>
+</bookstore>
